@@ -1,0 +1,19 @@
+{
+	"$schema": "../schema.json",
+	"modifier": "blue",
+	"title": "Example Module with Modifier Blue",
+	"links": [
+		{
+			"uri": "index",
+			"text": "Link One"
+		},
+		{
+			"uri": "index",
+			"text": "Link Two"
+		},
+		{
+			"uri": "index",
+			"text": "Link Three"
+		}
+	]
+}

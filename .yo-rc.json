@@ -1,0 +1,11 @@
+{
+  "generator-nitro": {
+    "name": "nitro",
+    "templateEngine": "twig",
+    "jsCompiler": "js",
+    "themes": false,
+    "clientTemplates": false,
+    "exampleCode": true,
+    "exporter": true
+  }
+}
